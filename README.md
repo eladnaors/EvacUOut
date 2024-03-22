@@ -20,3 +20,4 @@ clear guidance and facilitating timely responses. By combining hardware integrat
 advanced algorithms, and graphical visualization, the system improves evacuation
 procedures, reduces response time, and ensures the safety of building occupants.
 
+![Untitled](https://github.com/eladnaors/EvacUOut/assets/48517008/02102c80-6de6-48a8-a551-287bffd897b9)
